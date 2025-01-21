@@ -64,10 +64,10 @@ export const SWIGGY_REST_API_PATH = `data?.cards[1]?.card?.card?.gridElements?.i
 
 
 // Social Media Links - URL
-export const LINKEDIN_LINK = "https://www.linkedin.com/in/bharat2044/";
+export const LINKEDIN_LINK = "https://www.linkedin.com/in/keshav-kumar-4978b9195/";
 export const GiTHUB_LINK = "https://github.com/Bharat2044";
 export const TWITTER_LINK = "https://x.com/bharat__2044/";
-export const EMAIL_LINK = "mailto:bharatkumar204451@gmal.com";
+export const EMAIL_LINK = "mailto:k100.singh29aug@gmal.com";
 
 
 // Github - username and repository name
